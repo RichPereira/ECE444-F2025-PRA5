@@ -1,6 +1,8 @@
-Flask
+flask
 scikit-learn
 gunicorn
 numpy
 requests
+pandas
+matplotlib
 boto3

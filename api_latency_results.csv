@@ -1,0 +1,401 @@
+test_case,predicted,expected,latency
+Economy shows steady growth according to latest data.,REAL,REAL,0.10889005661010742
+Economy shows steady growth according to latest data.,REAL,REAL,0.07805776596069336
+Economy shows steady growth according to latest data.,REAL,REAL,0.08921670913696289
+Economy shows steady growth according to latest data.,REAL,REAL,0.07927989959716797
+Economy shows steady growth according to latest data.,REAL,REAL,0.07656407356262207
+Economy shows steady growth according to latest data.,REAL,REAL,0.07556700706481934
+Economy shows steady growth according to latest data.,REAL,REAL,0.08068370819091797
+Economy shows steady growth according to latest data.,REAL,REAL,0.07539200782775879
+Economy shows steady growth according to latest data.,REAL,REAL,0.07923221588134766
+Economy shows steady growth according to latest data.,REAL,REAL,0.0800924301147461
+Economy shows steady growth according to latest data.,REAL,REAL,0.07638216018676758
+Economy shows steady growth according to latest data.,REAL,REAL,0.0983884334564209
+Economy shows steady growth according to latest data.,REAL,REAL,0.08742570877075195
+Economy shows steady growth according to latest data.,REAL,REAL,0.09028100967407227
+Economy shows steady growth according to latest data.,REAL,REAL,0.09649443626403809
+Economy shows steady growth according to latest data.,REAL,REAL,0.07753491401672363
+Economy shows steady growth according to latest data.,REAL,REAL,0.07820773124694824
+Economy shows steady growth according to latest data.,REAL,REAL,0.07413578033447266
+Economy shows steady growth according to latest data.,REAL,REAL,0.07949233055114746
+Economy shows steady growth according to latest data.,REAL,REAL,0.08370566368103027
+Economy shows steady growth according to latest data.,REAL,REAL,0.08162140846252441
+Economy shows steady growth according to latest data.,REAL,REAL,0.0849158763885498
+Economy shows steady growth according to latest data.,REAL,REAL,0.07968330383300781
+Economy shows steady growth according to latest data.,REAL,REAL,0.08267354965209961
+Economy shows steady growth according to latest data.,REAL,REAL,0.07842278480529785
+Economy shows steady growth according to latest data.,REAL,REAL,0.08668875694274902
+Economy shows steady growth according to latest data.,REAL,REAL,0.08521270751953125
+Economy shows steady growth according to latest data.,REAL,REAL,0.07960200309753418
+Economy shows steady growth according to latest data.,REAL,REAL,0.08608460426330566
+Economy shows steady growth according to latest data.,REAL,REAL,0.08099603652954102
+Economy shows steady growth according to latest data.,REAL,REAL,0.08191800117492676
+Economy shows steady growth according to latest data.,REAL,REAL,0.07987141609191895
+Economy shows steady growth according to latest data.,REAL,REAL,0.08577466011047363
+Economy shows steady growth according to latest data.,REAL,REAL,0.12409567832946777
+Economy shows steady growth according to latest data.,REAL,REAL,0.09021687507629395
+Economy shows steady growth according to latest data.,REAL,REAL,0.08012866973876953
+Economy shows steady growth according to latest data.,REAL,REAL,0.08253717422485352
+Economy shows steady growth according to latest data.,REAL,REAL,0.07820749282836914
+Economy shows steady growth according to latest data.,REAL,REAL,0.07638716697692871
+Economy shows steady growth according to latest data.,REAL,REAL,0.09311294555664062
+Economy shows steady growth according to latest data.,REAL,REAL,0.07777881622314453
+Economy shows steady growth according to latest data.,REAL,REAL,0.07777738571166992
+Economy shows steady growth according to latest data.,REAL,REAL,0.07990121841430664
+Economy shows steady growth according to latest data.,REAL,REAL,0.0787804126739502
+Economy shows steady growth according to latest data.,REAL,REAL,0.07984733581542969
+Economy shows steady growth according to latest data.,REAL,REAL,0.08384346961975098
+Economy shows steady growth according to latest data.,REAL,REAL,0.0799410343170166
+Economy shows steady growth according to latest data.,REAL,REAL,0.08595705032348633
+Economy shows steady growth according to latest data.,REAL,REAL,0.0810093879699707
+Economy shows steady growth according to latest data.,REAL,REAL,0.07959651947021484
+Economy shows steady growth according to latest data.,REAL,REAL,0.09392094612121582
+Economy shows steady growth according to latest data.,REAL,REAL,0.08537411689758301
+Economy shows steady growth according to latest data.,REAL,REAL,0.09284019470214844
+Economy shows steady growth according to latest data.,REAL,REAL,0.0798795223236084
+Economy shows steady growth according to latest data.,REAL,REAL,0.08510184288024902
+Economy shows steady growth according to latest data.,REAL,REAL,0.08212924003601074
+Economy shows steady growth according to latest data.,REAL,REAL,0.07973885536193848
+Economy shows steady growth according to latest data.,REAL,REAL,0.07660770416259766
+Economy shows steady growth according to latest data.,REAL,REAL,0.07926535606384277
+Economy shows steady growth according to latest data.,REAL,REAL,0.0789945125579834
+Economy shows steady growth according to latest data.,REAL,REAL,0.10907173156738281
+Economy shows steady growth according to latest data.,REAL,REAL,0.08608794212341309
+Economy shows steady growth according to latest data.,REAL,REAL,0.0792086124420166
+Economy shows steady growth according to latest data.,REAL,REAL,0.07583737373352051
+Economy shows steady growth according to latest data.,REAL,REAL,0.08856964111328125
+Economy shows steady growth according to latest data.,REAL,REAL,0.08092880249023438
+Economy shows steady growth according to latest data.,REAL,REAL,0.08359193801879883
+Economy shows steady growth according to latest data.,REAL,REAL,0.08115577697753906
+Economy shows steady growth according to latest data.,REAL,REAL,0.08785891532897949
+Economy shows steady growth according to latest data.,REAL,REAL,0.08670353889465332
+Economy shows steady growth according to latest data.,REAL,REAL,0.08298301696777344
+Economy shows steady growth according to latest data.,REAL,REAL,0.0805671215057373
+Economy shows steady growth according to latest data.,REAL,REAL,0.0816032886505127
+Economy shows steady growth according to latest data.,REAL,REAL,0.07743239402770996
+Economy shows steady growth according to latest data.,REAL,REAL,0.0848541259765625
+Economy shows steady growth according to latest data.,REAL,REAL,0.08115530014038086
+Economy shows steady growth according to latest data.,REAL,REAL,0.07922625541687012
+Economy shows steady growth according to latest data.,REAL,REAL,0.08177304267883301
+Economy shows steady growth according to latest data.,REAL,REAL,0.08379793167114258
+Economy shows steady growth according to latest data.,REAL,REAL,0.08859062194824219
+Economy shows steady growth according to latest data.,REAL,REAL,0.08489823341369629
+Economy shows steady growth according to latest data.,REAL,REAL,0.08789443969726562
+Economy shows steady growth according to latest data.,REAL,REAL,0.08291506767272949
+Economy shows steady growth according to latest data.,REAL,REAL,0.08121967315673828
+Economy shows steady growth according to latest data.,REAL,REAL,0.07875800132751465
+Economy shows steady growth according to latest data.,REAL,REAL,0.097930908203125
+Economy shows steady growth according to latest data.,REAL,REAL,0.0899968147277832
+Economy shows steady growth according to latest data.,REAL,REAL,0.07460713386535645
+Economy shows steady growth according to latest data.,REAL,REAL,0.08432960510253906
+Economy shows steady growth according to latest data.,REAL,REAL,0.08620786666870117
+Economy shows steady growth according to latest data.,REAL,REAL,0.07639884948730469
+Economy shows steady growth according to latest data.,REAL,REAL,0.08090949058532715
+Economy shows steady growth according to latest data.,REAL,REAL,0.09207534790039062
+Economy shows steady growth according to latest data.,REAL,REAL,0.08574819564819336
+Economy shows steady growth according to latest data.,REAL,REAL,0.07596778869628906
+Economy shows steady growth according to latest data.,REAL,REAL,0.07923221588134766
+Economy shows steady growth according to latest data.,REAL,REAL,0.08598113059997559
+Economy shows steady growth according to latest data.,REAL,REAL,0.07780194282531738
+Economy shows steady growth according to latest data.,REAL,REAL,0.09155702590942383
+Economy shows steady growth according to latest data.,REAL,REAL,0.07826972007751465
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07665896415710449
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.1034841537475586
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08106637001037598
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07623982429504395
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07948470115661621
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08235573768615723
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.09230303764343262
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08247232437133789
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07651066780090332
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08113336563110352
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08107566833496094
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.10511350631713867
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0824899673461914
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08208274841308594
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08238744735717773
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08341050148010254
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08082389831542969
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0879523754119873
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07838559150695801
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07837462425231934
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.15487384796142578
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0913088321685791
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0808711051940918
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07898473739624023
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08515357971191406
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07598876953125
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07961606979370117
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08266854286193848
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08040499687194824
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0866692066192627
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0830831527709961
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07828927040100098
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.09115028381347656
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07486438751220703
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07796382904052734
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08029747009277344
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.09766292572021484
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08354544639587402
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07762694358825684
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07947468757629395
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0846109390258789
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0795753002166748
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0808098316192627
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08007359504699707
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07788968086242676
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07999157905578613
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0851891040802002
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08730721473693848
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.09891653060913086
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08767580986022949
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08836603164672852
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.09242486953735352
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07850909233093262
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.09988880157470703
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07691431045532227
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.09377789497375488
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08005785942077637
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08785223960876465
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.11672592163085938
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08650636672973633
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07906532287597656
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0865936279296875
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0808875560760498
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.09109663963317871
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08310174942016602
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08491659164428711
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08063125610351562
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07962369918823242
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07976722717285156
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08874773979187012
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0761721134185791
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07990550994873047
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07791996002197266
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07806563377380371
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08033871650695801
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.09415507316589355
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08242964744567871
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08013176918029785
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.09450984001159668
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0795595645904541
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08869123458862305
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0890653133392334
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08567166328430176
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0793144702911377
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0759744644165039
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08647632598876953
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.0773310661315918
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08143758773803711
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07700443267822266
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08589744567871094
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08415508270263672
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07748985290527344
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07998394966125488
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08186984062194824
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07792139053344727
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.07621431350708008
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08453011512756348
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08631563186645508
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08135032653808594
+Scientists confirm the earth is flat in new study.,FAKE,FAKE,0.08786916732788086
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07746624946594238
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08797287940979004
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08749890327453613
+Local sports team wins championship after dramatic final.,REAL,REAL,0.11989736557006836
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08222794532775879
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08794403076171875
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08099222183227539
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08937740325927734
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08562827110290527
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07972455024719238
+Local sports team wins championship after dramatic final.,REAL,REAL,0.09344267845153809
+Local sports team wins championship after dramatic final.,REAL,REAL,0.12606167793273926
+Local sports team wins championship after dramatic final.,REAL,REAL,0.0844888687133789
+Local sports team wins championship after dramatic final.,REAL,REAL,0.0790109634399414
+Local sports team wins championship after dramatic final.,REAL,REAL,0.10149049758911133
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08511853218078613
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08105969429016113
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08186793327331543
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08474349975585938
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08222246170043945
+Local sports team wins championship after dramatic final.,REAL,REAL,0.0816187858581543
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07019376754760742
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07613325119018555
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07257938385009766
+Local sports team wins championship after dramatic final.,REAL,REAL,0.09013915061950684
+Local sports team wins championship after dramatic final.,REAL,REAL,0.09377217292785645
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08854079246520996
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08450508117675781
+Local sports team wins championship after dramatic final.,REAL,REAL,0.0908963680267334
+Local sports team wins championship after dramatic final.,REAL,REAL,0.12505507469177246
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08577108383178711
+Local sports team wins championship after dramatic final.,REAL,REAL,0.10866475105285645
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08141374588012695
+Local sports team wins championship after dramatic final.,REAL,REAL,0.09333062171936035
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08500242233276367
+Local sports team wins championship after dramatic final.,REAL,REAL,0.0838479995727539
+Local sports team wins championship after dramatic final.,REAL,REAL,0.12263870239257812
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07904934883117676
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07924842834472656
+Local sports team wins championship after dramatic final.,REAL,REAL,0.0832509994506836
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08747673034667969
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08068108558654785
+Local sports team wins championship after dramatic final.,REAL,REAL,0.0834188461303711
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07624983787536621
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07569146156311035
+Local sports team wins championship after dramatic final.,REAL,REAL,0.09308910369873047
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08260703086853027
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08452129364013672
+Local sports team wins championship after dramatic final.,REAL,REAL,0.0838623046875
+Local sports team wins championship after dramatic final.,REAL,REAL,0.0860140323638916
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08326959609985352
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08921217918395996
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08694720268249512
+Local sports team wins championship after dramatic final.,REAL,REAL,0.09326171875
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08129358291625977
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07680988311767578
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08367609977722168
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08402776718139648
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07921719551086426
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08409523963928223
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08601665496826172
+Local sports team wins championship after dramatic final.,REAL,REAL,0.09049487113952637
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08010435104370117
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08801460266113281
+Local sports team wins championship after dramatic final.,REAL,REAL,0.10224676132202148
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08910727500915527
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07965612411499023
+Local sports team wins championship after dramatic final.,REAL,REAL,0.11075472831726074
+Local sports team wins championship after dramatic final.,REAL,REAL,0.0988759994506836
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08532285690307617
+Local sports team wins championship after dramatic final.,REAL,REAL,0.09472131729125977
+Local sports team wins championship after dramatic final.,REAL,REAL,0.09469413757324219
+Local sports team wins championship after dramatic final.,REAL,REAL,0.0895998477935791
+Local sports team wins championship after dramatic final.,REAL,REAL,0.11335992813110352
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08097982406616211
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07618331909179688
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07830476760864258
+Local sports team wins championship after dramatic final.,REAL,REAL,0.09051299095153809
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07988929748535156
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08302569389343262
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08094477653503418
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08115839958190918
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07885384559631348
+Local sports team wins championship after dramatic final.,REAL,REAL,0.1036074161529541
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08503150939941406
+Local sports team wins championship after dramatic final.,REAL,REAL,0.09602594375610352
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08397102355957031
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07586026191711426
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07839655876159668
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07985711097717285
+Local sports team wins championship after dramatic final.,REAL,REAL,0.0831141471862793
+Local sports team wins championship after dramatic final.,REAL,REAL,0.07771444320678711
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08047866821289062
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08417606353759766
+Local sports team wins championship after dramatic final.,REAL,REAL,0.1137549877166748
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08070230484008789
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08154106140136719
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08551692962646484
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08543205261230469
+Local sports team wins championship after dramatic final.,REAL,REAL,0.08290338516235352
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07987833023071289
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07840394973754883
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08199810981750488
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08753156661987305
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08231306076049805
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07796216011047363
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07505154609680176
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08191275596618652
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08859944343566895
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08433008193969727
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08246231079101562
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08208465576171875
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08189940452575684
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08197665214538574
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08033442497253418
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08474493026733398
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.0797121524810791
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08318543434143066
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.0928184986114502
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08784174919128418
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08527374267578125
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08733034133911133
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.09173417091369629
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08901596069335938
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08535146713256836
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07816481590270996
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08114075660705566
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08085322380065918
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08557868003845215
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08111405372619629
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.09967589378356934
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.09114289283752441
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08450675010681152
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08218789100646973
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.09553408622741699
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08053421974182129
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07793927192687988
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.0788111686706543
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.0794222354888916
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08275008201599121
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08595085144042969
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07894444465637207
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.09777665138244629
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08794951438903809
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08081221580505371
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.0817413330078125
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.09424161911010742
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08073306083679199
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.0836799144744873
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08742856979370117
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.10519886016845703
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07786917686462402
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.09842371940612793
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.11188411712646484
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08112931251525879
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.11516475677490234
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08762407302856445
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07741999626159668
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07096290588378906
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08006596565246582
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07734465599060059
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08142542839050293
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.10251688957214355
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08645772933959961
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07693004608154297
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08873438835144043
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.0813286304473877
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07776141166687012
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07037019729614258
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07729339599609375
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07513570785522461
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.0795447826385498
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07714724540710449
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07828783988952637
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07151126861572266
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07915949821472168
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.10189008712768555
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.1073155403137207
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08170771598815918
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.09829902648925781
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08127474784851074
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08760309219360352
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.09654641151428223
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.07965660095214844
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.0809788703918457
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08555912971496582
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.09235310554504395
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.1264803409576416
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.10960745811462402
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.11552309989929199
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.0907447338104248
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08411335945129395
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.0854029655456543
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.08519792556762695
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.10176897048950195
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.09867572784423828
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.09486269950866699
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.09106159210205078
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.1031959056854248
+Celebrity endorses miracle weight loss pill.,FAKE,FAKE,0.113677978515625
