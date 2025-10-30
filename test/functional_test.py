@@ -10,11 +10,12 @@ test_cases = [
     ("Global warming is causing temperatures to rise.", "REAL") # real
 ]
 
-print("Starting functional testing...\n")
+print("\nStarting functional testing...\n")
 
 successful = 0
 error = 0
 for case in test_cases:
+    
     try:
         response = requests.post(app_base_url, data={"message": case})
         match = re.search(r'<span class="prediction-value">(.*?)</span>', response.text)
@@ -22,10 +23,12 @@ for case in test_cases:
             prediction = match.group(1)
         assert prediction == case[1], f"Test failed: expected '{case[1]}' but got '{prediction}' for input '{case[0]}'"
         successful += 1
+        print(f"Testing case: {case} - predicted = {prediction}, expected = {case[1]} -- ✔")
 
     except Exception as ex:
         print(f"Error occured: {ex}\n")
         error += 1
+        print(f"Testing case: {case} - predicted = {prediction}, expected = {case[1]} -- ✖")
 
 
-print(f"Functional testing completed - {successful}/{len(test_cases)} successful. {error} failed.")
+print(f"\nFunctional testing completed - {successful}/{len(test_cases)} successful. {error} failed.\n")

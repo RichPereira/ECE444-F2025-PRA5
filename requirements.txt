@@ -6,3 +6,5 @@ requests
 pandas
 matplotlib
 boto3
+re
+tabulate
